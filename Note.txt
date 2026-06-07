@@ -1,0 +1,3 @@
+while communicating with db can cause sometimes problem
+famouse line - database always in another continent
+communicating can take time always use trycatch
